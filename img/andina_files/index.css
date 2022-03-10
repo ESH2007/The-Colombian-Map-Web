@@ -1,0 +1,60 @@
+body {
+  min-height: 100vh;
+  background: url(../img/fondo5.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+.jumbotron {
+  background-color: rgba(0, 0, 0, 0.575) !important;
+  color: #fff;
+}
+
+.navbar {
+  color: white !important;
+}
+.nav-link {
+  color: #fff !important;
+}
+.dropdown-menu {
+  background-color: rgba(0, 0, 0, 0.438) !important;
+  color: white !important;
+}
+
+.dropdown-item {
+  color: #fff !important;
+}
+.dropdown-item:hover {
+  background-color: #fff !important;
+  color: rgb(0, 0, 0) !important;
+}
+
+.cover-container {
+  background: rgba(0, 0, 0, 0.753) !important;
+  position: relative;
+  top: 50%;
+  margin-top: -0.1px !important;
+  color: #fff !important;
+}
+.cover-heading {
+  text-align: center !important;
+}
+
+.lead {
+  text-align: center !important;
+}
+
+.mastfoot {
+  text-align: center !important;
+}
+
+#inner p {
+  text-align: center !important;
+}
+
+img {
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+a {
+    text-align: center !important;
+}
