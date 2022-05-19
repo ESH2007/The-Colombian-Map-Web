@@ -1,0 +1,19 @@
+body {
+    position: relative;
+    margin-top: 70px;
+    margin-bottom: 100px;
+    margin-left: 150px;
+    margin-right: 250px;
+
+}
+
+.navbar, .nav-item, .nav-link, .btn{
+    color: white !important;
+    font-family: 'comic sans ms', sans-serif !important;
+}
+
+/* Styles for menu*/
+html, body,#map {
+    height: 100%;
+    width: 100%;
+}
