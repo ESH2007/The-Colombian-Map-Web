@@ -6,7 +6,7 @@ var regionsData ={ // este archivo contiene las coordenadas para mostrar las lay
       "properties": {
         "name": "Amazonia",
         "file": "./forumPages/amazonia.html",
-        "population": "37M",
+        "population": "270 000",
         "stroke": "#008040",
         "stroke-width": 2,
         "stroke-opacity": 1,
@@ -432,7 +432,7 @@ var regionsData ={ // este archivo contiene las coordenadas para mostrar las lay
       "properties": {
         "name": "Orinoquia",
         "file": "./forumPages/orinoquiaR.html",
-        "population": "30M",
+        "population": "1 700 000",
         "stroke": "#ec4d00",
         "stroke-width": 2,
         "stroke-opacity": 1,
@@ -839,7 +839,7 @@ var regionsData ={ // este archivo contiene las coordenadas para mostrar las lay
       "properties": {
         "name": "Pacifica",
         "file": "./forumPages/pacifica.html",
-        "population": "40M",
+        "population": "1,5M",
         "stroke": "#004080",
         "stroke-width": 2,
         "stroke-opacity": 1,
@@ -1029,7 +1029,7 @@ var regionsData ={ // este archivo contiene las coordenadas para mostrar las lay
       "properties": {
         "name": "Caribe",
         "file": "./forumPages/caribeR.html",
-        "population": "50M",
+        "population": "10M",
         "stroke": "#ffff80",
         "stroke-width": 2,
         "stroke-opacity": 1,
@@ -1308,7 +1308,7 @@ var regionsData ={ // este archivo contiene las coordenadas para mostrar las lay
       "properties": {
         "name": "Andina",
         "file": "./forumPages/andinaR.html",
-        "population": "100M",
+        "population": "37M",
         "stroke": "#800000",
         "stroke-width": 2,
         "stroke-opacity": 1,
